@@ -1,3 +1,3 @@
-# ACCESS TO VENITH NETWORK GRANTED
+# ACCESS TO VELTRON NETWORK GRANTED
 WELCOME TO THE NETWORK!
-http://www.venith.net
+http://www.veltron.net
