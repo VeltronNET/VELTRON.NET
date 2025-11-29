@@ -35,7 +35,7 @@ $response = [
 "hits" => $data['hits'],
 "created_at" => $data['created_at'],
 "last_updated" => $data['last_updated'],
-"domain" => "venith.net",
+"domain" => "veltron.net",
 "tags" => ["kirby", "2000s", "music", "personal", "90s"]
 ]
 ];

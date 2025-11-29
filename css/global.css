@@ -155,14 +155,14 @@
 
 /* Defaults */
 body {
-  background: url("http://www.venith.net/images/wallpaper.png") no-repeat center center fixed;
+  background: url("http://www.veltron.net/images/wallpaper.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-color: #698aff;
   font-family: "Roboto", arial, serif;
-  cursor: url("http://www.venith.net/images/cursor.png"), auto;
+  cursor: url("http://www.veltron.net/images/cursor.png"), auto;
   font-size: 14px;
   height: 100vh;
 }
@@ -631,5 +631,5 @@ p {
 }
 a:hover {
   text-decoration: underline;
-  cursor: url("http://www.venith.net/images/cursor.cur"), auto;
+  cursor: url("http://www.veltron.net/images/cursor.cur"), auto;
 }
